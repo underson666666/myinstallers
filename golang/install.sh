@@ -20,3 +20,6 @@ echo '' >> ~/.bash_profile
 go install golang.org/x/tools/cmd/goimports@latest
 which goimports
 echo "### finish to install goimports ###"
+echo "execute this command."
+echo "source ~/.bash_profile"
+echo ""
